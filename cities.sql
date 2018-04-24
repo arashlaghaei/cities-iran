@@ -1,12 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 4.7.6
--- https://www.phpmyadmin.net/
---
--- Host: localhost
--- Generation Time: Apr 24, 2018 at 12:59 PM
--- Server version: 5.7.21-0ubuntu0.16.04.1
--- PHP Version: 7.2.2-1+ubuntu16.04.1+deb.sury.org+1
-
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
@@ -17,10 +8,6 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
-
---
--- Database: `gateway`
---
 
 -- --------------------------------------------------------
 
